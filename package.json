@@ -1,16 +1,16 @@
 {
   "name": "hubot-eksisozluk",
   "description": "A hubot script that retrieves random entries from Turkish collaborative hypertext dictionary eksisozluk.com",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Mehmet Ali Aydın <maaydin@gmail.com>",
   "license": "MIT",
   "keywords": "hubot, eksi, eksisozluk, sozluk, yesillendir",
   "repository": {
     "type": "git",
-    "url": "git://github.com/hubot-scripts/hubot-eksisozluk.git"
+    "url": "git://github.com/kloia/hubot-eksisozluk.git"
   },
   "bugs": {
-    "url": "https://github.com/hubot-scripts/hubot-eksisozluk/issues"
+    "url": "https://github.com/kloia/hubot-eksisozluk/issues"
   },
   "dependencies": {
     "osmosis": "^1.1.4"
